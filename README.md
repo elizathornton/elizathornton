@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+
+I am a physician who loves data science, programming, machine learning, and AI. After getting a Bachelor of Science in Physics and a Master's in Astronomy, I discovered a calling in medicine serving underserved and vulnerable populations. Since 2009, I have worked as a home-visiting primary care doctor, providing compassionate care to homebound elderly and disabled patients.  This github is a place for my projects for fun and learning. 
 
 <!--
 **elizathornton/elizathornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
